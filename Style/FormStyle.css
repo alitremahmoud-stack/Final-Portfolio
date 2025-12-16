@@ -17,7 +17,6 @@ body {
     overflow-x: hidden;
     /* منع التمرير الأفقي */
     position: relative;
-    /* لجعل 3D خلفية ثابتة */
 }
 
 .model3D {
